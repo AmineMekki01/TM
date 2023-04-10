@@ -1,0 +1,5 @@
+#!/home/amine/Downloads/Projet_data_science_TM/venv/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

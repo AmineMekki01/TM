@@ -1,0 +1,11 @@
+prefix=/home/amine/Downloads/Projet_data_science_TM/venv
+exec_prefix=/home/amine/Downloads/Projet_data_science_TM/venv
+libdir=/home/amine/Downloads/Projet_data_science_TM/venv/lib
+includedir=/home/amine/Downloads/Projet_data_science_TM/venv/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
